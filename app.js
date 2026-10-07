@@ -1,4 +1,4 @@
-const API_KEY = "ko0sdjjKSIEEM4r5t&G";
+const API_KEY = "3K9ds8urBDhBGrITVzjpHsCfwAn_6dQrJ7zeuhmysN4LzBVcW";
 
 function conectarAPI() {
     console.log("Conectando con la API...");
@@ -6,5 +6,3 @@ function conectarAPI() {
 }
 
 conectarAPI();
-
-const TEST_SECRET = "KDR$#SF56yhde%RCCSR";
