@@ -1,5 +1,4 @@
-const API_KEY = "FAKE_SECRET_123456789";
-const GITHUB_TOKEN = "ghp_000000000000000000000000000000000000";
+const API_KEY = "ko0sdjjKSIEEM4r5t&G";
 
 function conectarAPI() {
     console.log("Conectando con la API...");
@@ -8,4 +7,4 @@ function conectarAPI() {
 
 conectarAPI();
 
-const TEST_SECRET = "github_pat_0000000000000000000000000000000000000000000000000000000000000000";
+const TEST_SECRET = "KDR$#SF56yhde%RCCSR";
