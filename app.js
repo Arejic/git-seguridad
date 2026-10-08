@@ -1,4 +1,4 @@
-const API_KEY = "ghp_u8O8g72d9X8gR2L00y1x3Z99p2a1b3c4d5e6";
+const API_KEY = "xoxb-123456789012-1234567890123-4abc5def6ghi7jkl8mno9pqr";
 
 function conectarAPI() {
     console.log("Conectando con la API...");
